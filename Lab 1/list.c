@@ -3,6 +3,7 @@
 // Implementation for linked list.
 //
 // <Author> Julian Forbes @julianf17
+// collaborated with Kyndall Jones and Zoe Carter
 #include <stdio.h>
 #include <stdlib.h>
 #include "list.h"
