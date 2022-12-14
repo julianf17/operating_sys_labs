@@ -5,7 +5,8 @@
 #include <unistd.h>
 #include <stdbool.h>
 #include <time.h>
-
+// <Author> Julian Forbes @julianf17
+// collaborated with Kyndall Jones and Zoe Carter
 bool signaled = true;
 int alarms;
 time_t start, ending;
