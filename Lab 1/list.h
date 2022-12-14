@@ -3,6 +3,7 @@
 // Interface definition for linked list.
 //
 // <Author> Julian Forbes @julianf17
+// collaborated with Kyndall Jones and Zoe Carter
 
 #include <stdbool.h>
 
