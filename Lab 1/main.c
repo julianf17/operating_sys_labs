@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "list.h"
-
+// <Author> Julian Forbes @julianf17
+// collaborated with Kyndall Jones and Zoe Carter
 int main() 
 {
     printf("Write your Tests for your linked list implementation\n");
