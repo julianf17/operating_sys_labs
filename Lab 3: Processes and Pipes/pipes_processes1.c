@@ -86,4 +86,5 @@ int main()  // First pipe sends input string from parent; Second pipe sends conc
         close(fd2[1]); 
         exit(0); 
     } 
+    
 } 
