@@ -9,7 +9,7 @@
 #include <sys/mman.h>
 
 // <Author> Julian Forbes @julianf17
-// collaborated with Zoe Carter and Kyndall Jones
+// collaborated with Kyndall Jones
 
 int main(int argc, char **argv)
 {
