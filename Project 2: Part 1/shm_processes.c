@@ -8,7 +8,7 @@
 #include <semaphore.h>
 #include <fcntl.h>
 //<Author> Julian Forbes @julianf17
-// collaborated with Zoe Carter and Kyndall Jones
+// collaborated with Kyndall Jones
 
 void DadProcess(int [], sem_t *);
 void ChildProcess(int [], sem_t *, int);
