@@ -6,7 +6,7 @@
 #include <stdbool.h>
 #include <string.h>
 // <Author> Julian Forbes @julianf17
-// collaborated with Zoe Carter and Kyndall Jones
+// collaborated with Kyndall Jones
 
 // Let a menu item be a string.
 typedef char* MenuItem;
