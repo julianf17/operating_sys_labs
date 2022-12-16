@@ -3,7 +3,7 @@
 #include <pthread.h>
 #include "BENSCHILLIBOWL.h"
 //<Author> Julian Forbes @julianf17
-// collaborated with Zoe Carter and Kyndall Jones
+// collaborated with Kyndall Jones
 
 // Feel free to play with these numbers! This is a great way to
 // test your implementation.
