@@ -4,7 +4,7 @@
 #include <sys/time.h>
 #include <errno.h>
 //<Author> Julian Forbes @julianf17
-// collaborated with Zoe Carter and Kyndall Jones
+// collaborated with Kyndall Jones
 
 bool IsEmpty(BENSCHILLIBOWL* bcb);
 bool IsFull(BENSCHILLIBOWL* bcb);
