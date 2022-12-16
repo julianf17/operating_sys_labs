@@ -8,7 +8,7 @@
 #include <stdbool.h>
 
 typedef struct block {
-    int pid;  
+    int pid;   // pid
 	int start;
   int end;
 }block_t;
